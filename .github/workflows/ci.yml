@@ -37,7 +37,7 @@ jobs:
   # -------------------
   deploy:
     runs-on: ubuntu-latest
-    needs: docker   # run only after Docker job succeeds
+    needs: build   # run only after Docker job succeeds
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
