@@ -1,0 +1,6 @@
+aws_region        = "us-east-1"
+vpc_cidr          = "10.0.0.0/16"
+ec2_instance_type = "t2.medium"
+ec2_ami           = "ami-08982f1c5bf93d976"
+ec2_key_name      = "gopal_assignment3"
+name              = "KRA-Assigment3"

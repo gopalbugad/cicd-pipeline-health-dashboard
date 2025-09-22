@@ -1,6 +1,6 @@
 ----------------------------------------------------
 
-# Instructions/Prompts
+# Instructions/Prompts for Application Code
 
 ----------------------------------------------------
 
